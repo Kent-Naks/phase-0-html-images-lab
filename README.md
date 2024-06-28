@@ -1,4 +1,4 @@
-# HTML Images
+-# HTML Images
 
 ## Learning Goals
 
